@@ -15,11 +15,11 @@ function LeftMenuFooter() {
         <span>Mantido por </span>
         <a
           key="website"
-          href="https://github.com/gustavo2892"
+          href="https://reactavancado.com.br"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Freitas Software
+          React Avançado
         </a>
       </div>
     </Wrapper>

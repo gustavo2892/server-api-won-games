@@ -2,15 +2,12 @@
   "kind": "collectionType",
   "collectionName": "developers",
   "info": {
-    "name": "developer",
-    "description": ""
+    "name": "developer"
   },
   "options": {
     "increments": true,
-    "timestamps": true,
-    "draftAndPublish": true
+    "timestamps": true
   },
-  "pluginOptions": {},
   "attributes": {
     "name": {
       "type": "string",

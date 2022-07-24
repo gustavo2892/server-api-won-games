@@ -17,7 +17,7 @@ const HomePage = () => {
 
   useEffect(() => {
     axios
-      .get("https://api.github.com/users/gustavo2892/repos")
+      .get("https://api.github.com/users/React-avancado/repos")
       .then((res) => setRows(res.data))
       .catch((e) => strapi.notification.error(`Ops...github API error, ${e}`));
   }, []);

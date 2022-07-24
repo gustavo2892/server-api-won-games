@@ -35,15 +35,15 @@ const FIRST_BLOCK_LINKS = [
 const SOCIAL_LINKS = [
   {
     name: "GitHub",
-    link: "https://github.com/gustavo2892",
+    link: "https://github.com/React-avancado/",
   },
   {
-    name: "Facebook",
-    link: "https://www.facebook.com/profile.php?id=100009661024944",
+    name: "Slack",
+    link: "https://bit.ly/will-slack",
   },
   {
-    name: "Linkedin",
-    link: "https://www.linkedin.com/in/gustavo-vidal-de-freitas-962b84167/",
+    name: "Twitter",
+    link: "https://twitter.com/Willian_Justen",
   },
 ];
 
